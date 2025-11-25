@@ -1,0 +1,8 @@
+{
+    "ENGINE": "mssql",
+    "NAME": "CATEQUESIS",
+    "USER": "pythonconnectCatequesis",
+    "PASSWORD": "Py.Cnnt-Sql@Ctqs",
+    "HOST": "DESKTOP-H4MM1QD\\SQLEXPRESS",
+    "DRIVER": "ODBC Driver 17 for SQL Server"
+}

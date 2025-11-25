@@ -1,0 +1,11 @@
+# --- Archivos de Seguridad y Entorno ---
+db_config.json              # Contiene la contraseña de SQL Server (¡CRÍTICO!)
+.venv/                      # Directorio del entorno virtual
+venv/                       # Directorio del entorno virtual (si se llama venv)
+.vscode/                    # Configuración del IDE
+
+# --- Archivos Generados por Python/Django ---
+__pycache__/                # Carpetas de caché de Python
+*.pyc                       # Archivos compilados
+*.sqlite3                   # Base de datos local (si se generó)
+/media/                     # Archivos subidos por usuarios (si existieran)
